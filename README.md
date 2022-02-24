@@ -8,7 +8,7 @@ _기초적인 사용법_
 
 _다음 코스_
 
-[git 마스터]()
+[git 마스터](https://github.com/walrus811/master-git)
 
 ---
 
