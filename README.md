@@ -605,6 +605,7 @@ CONFLICT (content): Merge conflict in macaron.txt
 <div style="margin-bottom : 3rem;  text-align : center">머지 충돌 제거</div>
 
 <br/>
+
 ```bash
 $git status
 interactive rebase in progress; onto f2e0789
